@@ -30,4 +30,4 @@ It allows users to perform common mobile money operations securely and interacti
 
 
 ## Author
-**Donzy Chaka**
+**Kwadwo sarpong**
